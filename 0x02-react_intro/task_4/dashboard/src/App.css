@@ -1,0 +1,45 @@
+/* Header CSS */
+.App-header {
+  display: flex;
+  align-items: center;
+  height: 25vh;
+}
+
+.App-header img {
+  height: 100%;
+}
+
+.App-header h1 {
+  color: #E0344B;
+  font-size: 2.5rem;
+  margin-left: 1rem;
+}
+
+/* Body CSS */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App-body {
+  height: 44vh;
+}
+
+.App-body p {
+  margin: 3rem 0rem 2rem 2rem;
+}
+
+/* Footer CSS */
+.App-footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+}
+
+/* Utils */
+hr {
+  margin: 0;
+  height: .2rem;
+  background-color: #E0344B;
+}

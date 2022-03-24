@@ -1,0 +1,12 @@
+.menuItem {
+	display: flex;
+	justify-content: flex-end;
+}
+
+[data-notification-type="default"] {
+	color: blue;
+}
+
+[data-notification-type="urgent"] {
+	color: red;
+}

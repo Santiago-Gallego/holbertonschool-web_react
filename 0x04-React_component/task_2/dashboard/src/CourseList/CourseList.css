@@ -1,0 +1,15 @@
+/* CourseList CSS */
+#CourseList {
+	width: 90%;
+	margin: 40px auto 250px auto;
+  min-height: 150px;
+	border: 1px solid grey;
+}
+
+tr th {
+	border-bottom: 1px solid grey;
+}
+
+thead tr:nth-child(2) {
+	text-align: left;
+}

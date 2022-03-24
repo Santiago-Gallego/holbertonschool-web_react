@@ -1,0 +1,13 @@
+/* Login CSS */
+.App-login {
+  min-height: 150px;
+  margin: 40px auto 100px auto;
+}
+
+.App-login p {
+  margin: 3rem 0rem 0rem 2rem;
+}
+
+.App-login form {
+  margin: 1rem 0rem 2rem 2rem;
+}

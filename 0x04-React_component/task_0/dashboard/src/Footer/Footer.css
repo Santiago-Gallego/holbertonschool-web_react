@@ -1,0 +1,8 @@
+/* Footer CSS */
+.App-footer {
+  max-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+}
